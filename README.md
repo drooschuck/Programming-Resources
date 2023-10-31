@@ -1,7 +1,5 @@
 # Programming-Resources
 
-[![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
 
 ## Table of Contents:
